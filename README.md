@@ -1,8 +1,11 @@
 # confetti-library
 
+
+
 ## Project setup
 ```
 npm install
+npm i js-confetti
 ```
 
 ### Compiles and hot-reloads for development
